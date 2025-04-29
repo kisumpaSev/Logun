@@ -3,11 +3,11 @@ a{
   list-style: none;
   padding: 5px;
   color: white;
-  font-family: poppins;
-  font-size: 24px;
+  font-family: Arial;
+  font-size: 35px;
 }
 .phone{
-  font-size: 30px;
+  font-size: 45px;
   border-radius: 1rem;
   text-decoration: none;
   height: 60px;
@@ -33,15 +33,15 @@ a{
     .navbar {
       text-align: left;
       background-color: white;
-      padding: 20px;
+      padding: 55px;
       position: relative;
     }
     .menu-icon {
       background-color: black;
       margin-left: 85%;
       cursor: pointer;
-      width: 15%;
-      height: 45px;
+      width: 10%;
+      height: 100%;
       display: flex;
       flex-direction: column;
       justify-content: space-between;
@@ -99,19 +99,11 @@ header{
   width: 100%;
   position: sticky;
 }
-.qs{
-  color: red;
-  border-radius: 5rem;
-  font-size: 130px;
-  width: 50%;
-  height: 100%;
-  margin-left: 40%;
-  background-color: whitesmoke;
-}label{
+label{
   font-family: poppins;
   color: midnightblue;
   margin: 3px;
-  font-size: 35px;
+  font-size: 110px;
   font-family: "Calisto MT";
 }
 h3, #eti{
